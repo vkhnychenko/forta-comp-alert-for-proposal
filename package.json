@@ -1,7 +1,8 @@
 {
-  "name": "forta-agent-starter",
+  "name": "forta-comp-alert-for-proposal-from-vkhnychenko",
   "version": "0.0.1",
-  "description": "Forta Agent Typescript starter project",
+  "description": "Forta agent notifies about interaction with the governance address",
+  "repository": "https://github.com/vkhnychenko/forta-comp-alert-for-proposal",
   "scripts": {
     "build": "tsc",
     "start": "npm run start:dev",
